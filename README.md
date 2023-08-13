@@ -1,2 +1,0 @@
-# noscopearcadescript
-s
